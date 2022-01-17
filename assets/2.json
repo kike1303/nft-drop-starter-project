@@ -1,0 +1,19 @@
+{
+    "name": "CUBERITA",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "5G6qxWMGX6ERxeEWZFrWnR4SWxkfZDnaf7qwsHSmmPgi",
+          "share": 100
+        }
+      ]
+    }
+  }
